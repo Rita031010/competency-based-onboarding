@@ -23,7 +23,7 @@ The script compares both files and produces a table showing missing or weaker sk
 
 ## Example output
 
-![Output example](example_output_file.csv)
+[Output example](example_output_file.csv)
 
 ## Business value
 
