@@ -1,0 +1,7 @@
+role_id,skill_name,required_level
+DEV1,Python,4
+DEV1,SQL,3
+DEV1,Communication,2
+PM1,Stakeholder communcation,2
+PM1,Planning,3
+PM1,Leadership,4
